@@ -3,7 +3,7 @@ title: "Yubikeyに設定したOpenPGPの情報を消す方法"
 emoji: "🔓"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["YubiKey","OpenPGP","PGP"]
-published: false
+published: true
 ---
 # この記事の目的
 私のようにYubikeyに設定したPGP関連のPINを忘れて何もできなくなってしまった方向けの記事です。  
